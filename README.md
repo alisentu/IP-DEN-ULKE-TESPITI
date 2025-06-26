@@ -49,3 +49,4 @@ Notlar
 API 429 (istek sınırı aşımı) hatası alındığında script 60 saniye bekleyip işlemlere devam eder.
 
 Bazı IP adreslerinin konum bilgileri bulunmayabilir.
+
